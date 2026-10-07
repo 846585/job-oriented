@@ -1,5 +1,4 @@
-this is test file
-Rapro teaches below things
-Cloud,
+Rapro teaches below technologies,
+Cloud
 Containarisation
-Devops.
+Devops
