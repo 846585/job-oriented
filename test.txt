@@ -2,3 +2,5 @@ Rapro teaches below technologies,
 Cloud
 Containarisation
 Devops
+Git is software
+git hub is a ui
